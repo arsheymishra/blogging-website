@@ -22,7 +22,7 @@ app.use(cors({
   origin: [
     'http://localhost:5173', // local dev
     'https://blog-backend-production-1f0a.up.railway.app', // backend itself (optional)
-    'https://your-frontend-domain.com' // add your deployed frontend domain here when ready
+    'https://blogging-website-gamma-nine.vercel.app/' // add your deployed frontend domain here when ready
   ],
   credentials: true
 }));
