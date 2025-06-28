@@ -17,6 +17,7 @@
     "react-feather": "^2.0.10",
     "react-helmet-async": "^2.0.5",
     "react-quill": "^2.0.0",
+    "react-router-dom": "^7.6.3",
     "tailwindcss": "^4.1.11"
   },
   "devDependencies": {
