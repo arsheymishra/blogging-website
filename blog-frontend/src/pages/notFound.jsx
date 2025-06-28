@@ -1,4 +1,3 @@
-import React from "react";
 
 const NotFound = () => (
   <div className="container mx-auto px-4 py-8 text-center text-gray-600">
