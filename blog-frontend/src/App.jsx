@@ -5,7 +5,7 @@ import PostDetail from "./pages/PostDetail";
 import CreatePost from "./pages/CreatePost";
 import EditPost from "./pages/EditPost";
 import AdminDashboard from "./pages/AdminDashboard";
-import NotFound from "./pages/NotFound";
+import NotFound from "./pages/NotFound_temp";
 import Header from "./components/Header";
 
 function App() {
